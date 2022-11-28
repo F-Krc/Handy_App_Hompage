@@ -24,7 +24,7 @@ Homepage preparation work has been done
 ### Contact
 
 Mail: <fatih.karaca@gmx.net><br>
-GitHub: [yourGHName](https://github.com/F-Krc)<br>
+GitHub: [F-Krc](https://github.com/F-Krc)<br>
 
 
 ---
