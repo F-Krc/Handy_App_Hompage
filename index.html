@@ -11,6 +11,11 @@
     <div class="logo">
       <a href="#"><img src="./img/logo_001.png" alt="logo" /></a>
     </div>
+    <div class="hamburger">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
     <div class="links">
       <ul>
         <li><a href="#">producs</a></li>
@@ -39,5 +44,17 @@
       <img src="./img/phone_001.png" alt="phone_1" />
       <img src="./img/phone_002.png" alt="phone_2" />
     </div>
+    <script>
+      let clicked = false;
+      document.querySelector(".hamburger").addEventListener("click", () => {
+        clicked = !clicked;
+        if (clicked) {
+          document.querySelector(".links").style.cssText = "display:block;";
+          
+        } else {
+          document.querySelector(".links").style.cssText = "display:none;";
+        }
+      });
+    </script>
   </body>
 </html>
