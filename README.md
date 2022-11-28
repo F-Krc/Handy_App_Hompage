@@ -1,7 +1,7 @@
 # Hompage Exercise
 
 
-**[Test this app yourself](https://github.com/F-Krc/Homepage-task1)**
+**[Try my App](https://github.com/F-Krc/Homepage-task1)**
 
 ---
 
