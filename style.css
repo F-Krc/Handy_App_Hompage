@@ -42,12 +42,16 @@ body {
   align-items: center;
   list-style: none;
 }
-.links li a {
+.links li a{
   font-size: 1.6rem;
+  font-weight: 600;
   color: white;
   text-transform: uppercase;
   text-decoration: none;
   padding-right: 2rem;
+}
+li a:hover{
+  color: rgb(9, 152, 199);
 }
 /* main */
 
