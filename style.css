@@ -162,9 +162,16 @@ button {
     display: block;
     padding: 5rem;
   }
-  .links {
+  .links{
     display: none;
     height: 6rem;
+  }
+  .links ul{
+  
+    flex-direction: column;
+  }
+  .links ul li{
+    padding: .5rem;
   }
   .hamburger{
     display: block;
@@ -173,7 +180,7 @@ button {
     right: 5rem;
   }
   .column-1 {
-    margin-top: 2rem;
+    margin-top: 10rem;
   }
   .column-2 img {
     height: 42rem;
